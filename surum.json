@@ -1,8 +1,8 @@
 {
- "surum": 6,
+ "surum": 7,
  "ad": "1.6",
- "notlar": "beta",
- "url": "https://github.com/zeygold/santiyetakip-guncelleme/releases/download/v6/SantiyeTakip.exe",
- "sha256": "5d89dfc2260a60cb68b087c6a3252489574b35fbbeb8c89fec06cfc99e8cba26",
- "imza": "e8e77661ea8596ec36c566c05388c2edab780ed4892e7463cb61339217184d5057ce482f1b046fdf8fb6c2027a2dde8d8f73bf0d7e636fefa732feac7f1d0a02"
+ "notlar": "seta",
+ "url": "https://github.com/zeygold/santiyetakip-guncelleme/releases/download/v7/SantiyeTakip.exe",
+ "sha256": "7b519c4d2e6c1a48357f161ca6c4bb226ea384a83fa016755cb438bec7c97820",
+ "imza": "4687d284cf0780de043911dec9d7cc9633f95a996142b6efc802f226a7feb907217c54b47dd795f67b2527143d9a66ea6f43c0d52fe5a55220b04aed8870c508"
 }
