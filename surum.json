@@ -1,8 +1,8 @@
 {
- "surum": 4,
- "ad": "1.4",
- "notlar": "görünümün onarılması",
- "url": "https://github.com/zeygold/santiyetakip-guncelleme/releases/download/v4/SantiyeTakip.exe",
- "sha256": "38bbedd9619e5b0bac6beabf2e612d25226e3e020982f17bc4ef7be0ef86e147",
- "imza": "64809ce473d7e1d5db9214f61639540296ff6d072436931fc41762f45be736001c2ffa8187818df96f9b55bf496472710fa4b27b4c9f5c0f2f33667f0a211209"
+ "surum": 5,
+ "ad": "1.5",
+ "notlar": "yeni",
+ "url": "https://github.com/zeygold/santiyetakip-guncelleme/releases/download/v5/SantiyeTakip.exe",
+ "sha256": "264e1be541d04d5c717b0c0ff1fb7f933a8d866c0797a68279ab6d5258883560",
+ "imza": "4ba8c99688df2e8c472d30d8b2afe276853ec3aca201972ac240668c09c38f98038ad6608ecff4a904eaa70462162ec6fe83891024046c4ce95c39839003a803"
 }
