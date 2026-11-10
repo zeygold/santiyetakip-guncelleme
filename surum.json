@@ -1,8 +1,8 @@
 {
- "surum": 12,
- "ad": "2.0",
- "notlar": "Günlük rapor ve fotoğraf: saha sorumlusu telefondan rapor gönderir, Raporlar menüsünden okunur ve yazdırılır",
- "url": "https://github.com/zeygold/santiyetakip-guncelleme/releases/download/v12/SantiyeTakip.exe",
- "sha256": "90bd5cdbc0f95f425659a678b4b521ec8d0866613f93e29fb9694d9748c31d1e",
- "imza": "166fa69cc687538bd6babcef9af247044e04f44b0d780f588b12b43b937cfc40c7ca7082890f485dddc4542ead6839ad2210a66d49c6dd104879c363bb695e0c"
+ "surum": 13,
+ "ad": "2.1",
+ "notlar": "",
+ "url": "https://github.com/zeygold/santiyetakip-guncelleme/releases/download/v13/SantiyeTakip.exe",
+ "sha256": "45227a5ea3323154fbe68551069f5121b41c2650a740c51fe9bea79f22618270",
+ "imza": "fc650cc99c2aee8e24ce2cf9853ecaa8e29a2f42f5603ee5402c75a3981e169132f598868441d62d73110997919e1aaf38bb43243ffa22bdaef4475c9965780f"
 }
