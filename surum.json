@@ -1,8 +1,8 @@
 {
- "surum": 10,
+ "surum": 11,
  "ad": "1.9",
- "notlar": "yoklama özelliği ekleme ve silme",
- "url": "https://github.com/zeygold/santiyetakip-guncelleme/releases/download/v10/SantiyeTakip.exe",
- "sha256": "2dcfa0ec13e11757206cff5f020994e6cc146a0d025587c07fc0e5dd8ffa3801",
- "imza": "1540f8b716cf9838ffe76ad570915f6c113c6b661122934da25a14bfae69c8e107d99b9a8c0c9ddc0e3b26c80fe7af70e8a71b439b2f66f7e1f78f0260bde80a"
+ "notlar": "Hesapla giriş, yoklamayı alan hesap, kol/kişi silme, uygulama olarak ekleme",
+ "url": "https://github.com/zeygold/santiyetakip-guncelleme/releases/download/v11/SantiyeTakip.exe",
+ "sha256": "62718e891d1908f69fbc2b0544de73cd46de87a7bdc5d1ffbd7466dab2b7c51a",
+ "imza": "d712c55ccc7ab77cc0a027d9a131b5352f79ffa867d3e57ca04f09bd22e414c1c3955631b60f77b90960cfd931083bbc70ddb4ecebf554651c6ab9150e21cd07"
 }
